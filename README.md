@@ -1,7 +1,7 @@
 ## Olá, mundo 👋  
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luis+Eduardo;Estudante+de+Engenharia+de+Software;Java+•+Front-End+•+Cybersecurity" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luis+Eduardo;Estudante+de+Engenharia+de+Software;Java+•+Front-End+•+Hardware" />
 
 <br><br>
 
