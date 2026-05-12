@@ -1,9 +1,25 @@
 ## Olá, mundo 👋  
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisEdu126475&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luis+Eduardo;Estudante+de+Engenharia+de+Software;Java+•+Front-End+•+Cybersecurity" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEdu126475&layout=compact&langs_count=16&theme=dracula"/>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=LuisEdu126475&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=LuisEdu126475&theme=darkhub&no-bg=true&no-frame=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=LuisEdu126475&color=red">
 
 </div>
 
