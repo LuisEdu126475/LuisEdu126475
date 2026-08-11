@@ -1,4 +1,4 @@
-<img src="./assets/dante.jpg" alt="Dante" width="3500" height="2500">
+<img src="./assets/dante.jpg" alt="Dante" width="1000" height="250">
 
 # Olá, me chamo Luís Eduardo 👋
 
@@ -14,7 +14,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor, participar de projetos
 
 ## Tecnologias
 
-<img align="right" alt="Dante" src="./assets/Devil%20May%20Cry%20Dante%20GIF.gif" width="750" >
+<img align="right" alt="Dante" src="./assets/Devil%20May%20Cry%20Dante%20GIF.gif" width="400">
 
 ### FrontEnd
 
@@ -38,7 +38,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor, participar de projetos
 <img width="40" height="40" title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img width="40" height="40" title="VS Code" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
-<br>
+<br clear="right">
 <br>
 
 <h3 align="center">Estatísticas</h3>
@@ -58,4 +58,4 @@ Meu objetivo é evoluir continuamente como desenvolvedor, participar de projetos
 
 ***
 
-<img src="./assets/Dance%20Off%20Video%20Game%20GIF%20by%20CAPCOM.gif" alt="Dance Off" width="1000" height="900">
+<img src="./assets/Dance%20Off%20Video%20Game%20GIF%20by%20CAPCOM.gif" alt="Dance Off" width="1000" height="250">
