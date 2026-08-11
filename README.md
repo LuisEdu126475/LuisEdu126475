@@ -9,17 +9,11 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=LuisEdu126475&theme=dark&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=LuisEdu126475&theme=darkhub&no-bg=true&no-frame=true" />
-
-</div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=LuisEdu126475&color=red">
+
 
 </div>
 
