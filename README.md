@@ -1,4 +1,4 @@
-<img src="./assets/arte.jpg" alt="nuvens" width="1000" height="200">
+<img src="./assets/dante.jpg" alt="Dante" width="3500" height="2500">
 
 # Olá, me chamo Luís Eduardo 👋
 
@@ -14,7 +14,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor, participar de projetos
 
 ## Tecnologias
 
-<img align="right" alt="Paisagem" src="./assets/ilha.gif" width="350">
+<img align="right" alt="Dante" src="./assets/Devil%20May%20Cry%20Dante%20GIF.gif" width="750" >
 
 ### FrontEnd
 
@@ -58,4 +58,4 @@ Meu objetivo é evoluir continuamente como desenvolvedor, participar de projetos
 
 ***
 
-<img src="./assets/rio.jpg" alt="Paisagem" width="1000" height="200">
+<img src="./assets/Dance%20Off%20Video%20Game%20GIF%20by%20CAPCOM.gif" alt="Dance Off" width="1000" height="900">
