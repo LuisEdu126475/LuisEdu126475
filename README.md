@@ -55,6 +55,17 @@ Meu objetivo é evoluir continuamente como desenvolvedor, participar de projetos
     alt="Linguagens"
     src="https://github-stats-extended.vercel.app/api/top-langs?username=LuisEdu126475&hide_title=true&langs_count=3&theme=dark&icon_color=FFFFFF&text_color=FFFFFF"/>
 </p>
+***
+
+## 🎮 Gostos e interesses
+
+- 🎮 **Games**
+- 🖥️ **Hardware e computadores**
+- 🥋 **Artes marciais**
+- 🎸 **Rock e Metal**
+- 💻 **Programação**
+- ☕ **Java e Spring Boot**
+- 🔧 **Tecnologia e manutenção de computadores**
 
 ***
 
